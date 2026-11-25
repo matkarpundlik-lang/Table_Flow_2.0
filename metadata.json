@@ -1,0 +1,8 @@
+{
+  "name": "DineFlow",
+  "description": "The Operating System for Modern Restaurants — Multi-tenant Restaurant Management, POS, KDS, QR Ordering, Billing, Inventory & Analytics SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
